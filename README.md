@@ -24,9 +24,9 @@
 ---
 
 ### :technologist: About Me :
-:wave:I'm studying mechatronics engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+:wave:I'm studying mechatronics engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Brazil.
 
-- :telescope: I’m studying Software Engineering aside and building web applications.
+- :telescope: I’m studying Software Engineering aside and building web and other applications.
 
 - :seedling: Exploring Technical Content Writing.
 
